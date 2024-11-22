@@ -21,7 +21,7 @@ A web scraper that searches for free food and meal resources or events online. T
 4. **Run the scraper**:
    To scrape data from the URLs generated in the previous step, run:
    ```bash
-   scrapy crawl free_food_scraper
+   scrapy crawl free_food_spider
    ```
    - **Note**: Make sure to be in the *free_food_scraper* directory to execute this command.
 
